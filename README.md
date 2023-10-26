@@ -34,10 +34,11 @@ Developed objective strategy  **Python**. This approach led to better
 Used **Spring** to 
 
 ![Project2name](/assets/img/project2_image.jpeg)
-
+<!--
 ## Talks & Lectures 
 - 
 - 
+-->
 <!--
 ## Upcoming Project
 - [CodeBull](http://www.codebull.tech)
@@ -66,4 +67,4 @@ Used **Spring** to
 ## Coding Profiles
 - [Leetcode Profile](https://leetcode.com/solankimayank/)
 - [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/solankimayank/profile)
-->
+-->

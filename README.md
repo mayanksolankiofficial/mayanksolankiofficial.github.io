@@ -63,8 +63,3 @@ Used **Spring** to
 - <a href= "https://www.geeksforgeeks.org/jdk-17-new-features-in-java-17/">New Features in Java 17 </a>
 - <a href= "https://www.geeksforgeeks.org/java-programming-examples/">Java Programs – Java Programming Examples</a>
 - <a href = "https://www.geeksforgeeks.org/top-20-java-multithreading-interview-questions-answers/">Top Java Interview Questions & Answers</a>
-<!--
-## Coding Profiles
-- [Leetcode Profile](https://leetcode.com/solankimayank/)
-- [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/solankimayank/profile)
--->

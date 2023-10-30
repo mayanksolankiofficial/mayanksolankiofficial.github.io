@@ -19,7 +19,7 @@
 
 **Teaching Assistant @ Coding Ninjas(_June 2018 - Present_)**
 - Tech Stack: C++, DataStructures, Algorithms 
-
+<!--
 ## Projects
 ### Project1 
 [Visit On GitHub](https://)
@@ -43,6 +43,7 @@ Used **Spring** to
 ## Upcoming Project
 - [CodeBull](http://www.codebull.tech)
 - [CodeBull YouTube](https://www.youtube.com/channel/UC1eYJrYBPm0Axel_hjs6hdg)
+--> 
 -->
 ## Publications
 - [What is System Design – Learn System Design](https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/)

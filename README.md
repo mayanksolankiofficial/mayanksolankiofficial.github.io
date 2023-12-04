@@ -1,12 +1,12 @@
 # Senior Software Engineer
+### Java FullStack Engineer (React)
 
-#### Technical Skills: Java, React, SQL, React, Spring, SpringBoot, Microservices
-
+#### Technical Skills: Java, Spring. SpringBoot, Microservices, React, SQL, Data Structures & Algorithms 
 ## Education
 - B.Tech | Information Technology | Delhi Technological University, India (_May 2020_)								       		
-- Class 12 | Kulachi hansraj Model School, India | 83% (_May 2015_)	 			        		
-- Class 10 | Kulachi hansraj Model School, India | 94% (_May 2013_)
-
+- Class 12 | Kulachi Hansraj Model School, India | 83% (_May 2015_)	 			        		
+- Class 10 | Kulachi Hansraj Model School, India | 94% (_May 2013_)
+<!--
 ## Work Experience
 **Senior Member Of Technical Staff @ GeeksforGeeks (_September 2022 - August 2023_)**
 - Tech Stack: React, Microservices, DesignPatterns, System Design 
@@ -18,7 +18,9 @@
 - Tech Stack: Java Core, JSP, JDBC, Servlets, SpringFramework, Apache Tomcat 
 
 **Teaching Assistant @ Coding Ninjas(_June 2018 - Present_)**
-- Tech Stack: C++, DataStructures, Algorithms 
+- Tech Stack: C++, DataStructures, Algorithms
+-
+-->
 <!--
 ## Projects
 ### Project1 
